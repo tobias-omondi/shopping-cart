@@ -130,10 +130,10 @@ cursor: pointer;
 
 /* Optional hover effect */
 button:hover {
-background-color: #0056b3;
+background-color: #8695a5;
 }
 
-/* Optional active (when clicked) effect */
+/* (when clicked) effect */
 button:active {
 background-color: #ff0000;
 }
